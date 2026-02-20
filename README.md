@@ -1,2 +1,2 @@
-# arenaxplaystation.com_github
+.com_github
 
